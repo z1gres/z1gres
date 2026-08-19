@@ -42,7 +42,7 @@ A custom 2D Tower Defense game built from scratch using Python and Pygame.
 ### activity
 
 <p align="center">
-### activity
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=z1gres&theme=dark)](https://git.io/streak-stats)
+
 </p>
