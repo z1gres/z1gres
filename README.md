@@ -5,17 +5,17 @@
 ### about
 14-year-old software developer & game dev enthusiast. creating custom 2D games in python, automation tools, desktop interfaces, and exploring network scripts.
 
-🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [contact me](https://t.me/zigres)
+🌐 [fakecrime](https://fakecrime.bio/zigres) • ✉️ [contact me](https://t.me/zigres)
 
 ---
 
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,rust,c,js,pytorch,fastapi,docker,git,sqlite,arduino&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,jso&theme=dark" alt="core skills" />
 </p>
 
-- **languages**: Python • C++ • Rust • C • JavaScript • TypeScript • SQL
+- **languages**: Python • JavaScript
 - **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
