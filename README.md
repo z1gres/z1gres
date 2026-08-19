@@ -12,7 +12,7 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,jso&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,js&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: Python • JavaScript
