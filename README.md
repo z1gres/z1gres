@@ -3,7 +3,7 @@
 </p>
 
 ### about
-14-year-old software engineer, systems builder & ml enthusiast. co-founder and cto at [neuralese](https://www.youtube.com/watch?v=218K0ffants). building high-performance systems, visual ai tooling, embedded hardware, and developer infrastructure.
+14-year-old software developer & game dev enthusiast. creating custom 2D games in python, automation tools, desktop interfaces, and exploring network scripts.
 
 🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [wifiskeleton300@gmail.com](mailto:wifiskeleton300@gmail.com)
 
