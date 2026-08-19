@@ -12,8 +12,9 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css, flask, nodejs, sqlite, linux, &theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,flask,nodejs,sqlite,linux&theme=dark" alt="core skills" />
 </p>
+
 - **languages**: Python • JavaScript • HTML5 • CSS3
 - **ai tools**: Codex • Claude Code • AI studio
 - **backend**: Flask • Node.js • Express • REST APIs • RPC
