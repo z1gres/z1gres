@@ -15,8 +15,12 @@
   <img src="https://skillicons.dev/icons?i=py,js,html,css,git,vscode,linux,docker&theme=dark" alt="core skills" />
 </p>
 
+<p>
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,linux&theme=dark" alt="core skills" />
+</p>
+
 - **languages**: Python • JavaScript • HTML5 • CSS3
-- **ml & systems**: PyTorch • ONNX • CUDA • pybind11 • MLX • Continuous Batching • Autograd
+- **ai tools**: Ollama • Claude Code
 - **backend**: FastAPI • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite • PostgreSQL • Redis
 - **tools & hardware**: Arduino / ESP32 • Git • Docker • Linux • Apple Silicon / Metal • Vite • Electron
