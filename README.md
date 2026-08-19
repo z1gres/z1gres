@@ -5,7 +5,7 @@
 ### about
 14-year-old software developer & game dev enthusiast. creating custom 2D games in python, automation tools, desktop interfaces, and exploring network scripts.
 
-🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [wifiskeleton300@gmail.com](mailto:wifiskeleton300@gmail.com)
+🌐 [alimbv.com](https://www.alimbv.com/) • ✉️ [contact me](https://t.me/zigres)
 
 ---
 
