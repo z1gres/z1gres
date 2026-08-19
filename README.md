@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lyamon4/Lyamon4/main/alimbanner.png" alt="alim 14 the coder" width="100%">
+  <img src="https://raw.githubusercontent.com/Lyamon4/Lyamon4/main/alimbanner.png" alt="z1gres" width="100%">
 </p>
 
 ### about
