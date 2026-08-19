@@ -19,7 +19,7 @@
 - **ai tools**: Codex • Claude Code • AI studio
 - **backend**: Flask • Node.js • Express • REST APIs • RPC
 - **databases**: SQLite
-- **tools & env**: Linux • VS Code
+- **tools & env**: Windows • VS Code
 
 ---
 
