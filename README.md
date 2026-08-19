@@ -29,7 +29,7 @@
 **Tower Defense Simulator in Python** — *Developer & Creator*
 
 A custom 2D Tower Defense game built from scratch using Python and Pygame.
-- Custom tower classes with unique targeting logic & upgrade paths (Archer, Cowboy, Swarmer, Harvester)
+- Custom tower classes with unique targeting logic & upgrade paths
 - Configurable wave engine, enemy health scaling, and waypoint pathfinding
 - Responsive UI with grid-based placement previews and range indicators
 
