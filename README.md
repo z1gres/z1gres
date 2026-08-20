@@ -3,8 +3,7 @@
 </p>
 
 ### about
-14-year-old software developer & game dev enthusiast. creating custom 2D games in python, automation tools, desktop interfaces, and exploring network scripts.
-
+ne znau
 🌐 [fakecrime](https://fakecrime.bio/zigres) • ✉️ [contact me](https://t.me/zigres)
 
 ---
