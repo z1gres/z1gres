@@ -2,8 +2,6 @@
   <img src="banner.png" alt="z1gres" width="100%">
 </p>
 
-### about
-ne znau
 🌐 [fakecrime](https://fakecrime.bio/zigres) • ✉️ [contact me](https://t.me/zigres)
 
 ---
