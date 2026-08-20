@@ -12,7 +12,7 @@
 ### core skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,c++,js,html,css,flask,nodejs,sqlite,linux&theme=dark" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,flask,nodejs,sqlite,linux&theme=dark" alt="core skills" />
 </p>
 
 - **languages**: Python • C++ • JavaScript • HTML5 • CSS3
